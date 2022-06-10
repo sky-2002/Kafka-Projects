@@ -1,0 +1,14 @@
+1. Anomaly detection
+https://towardsdatascience.com/real-time-anomaly-detection-with-apache-kafka-and-python-3a40281c01c9
+
+2. Using kafka with Avro in python
+https://towardsdatascience.com/using-kafka-with-avro-in-python-da85b3e0f966
+
+3. Multi video processing with kafka
+https://towardsdatascience.com/kafka-in-action-building-a-distributed-multi-video-processing-pipeline-with-python-and-confluent-9f133858f5a0
+
+https://github.com/pborgesEdgeX/Video-RTSP-Streaming-
+
+4. Text classification using Kafka
+https://medium.com/velotio-perspectives/real-time-text-classification-using-kafka-and-scikit-learn-c2875ad80b3c
+ https://github.com/velotio-tech/kafka-ml
